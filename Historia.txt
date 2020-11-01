@@ -1,14 +1,10 @@
-Hola a Todos!
+Hola
 
 
 Soy Edgar Magaña, éste es mi primer archivo en GIT
 
-Estoy aprendiendo Git lo cual es supercool!!
+Voy a terminar el curso de GIT a como de lugar el Domingo Noviembre 1 2020
 
 Saludos
 
-31-Oct-2020 - Sabado
-
-Ya se mucho mejor Git!!!
-
-Modificando multiples archivos y haciendo multiples commits
+31-Oct-2020
