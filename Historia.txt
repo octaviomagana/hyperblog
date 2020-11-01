@@ -1,9 +1,10 @@
-Hola
+Hola a Todos!
 
 
 Soy Edgar Magaña, éste es mi primer archivo en GIT
 
+Estoy aprendiendo Git lo cual es supercool!!
 
 Saludos
 
-31-Oct-2020
+31-Oct-2020 - Sabado
