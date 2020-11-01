@@ -8,3 +8,5 @@ Voy a terminar el curso de GIT a como de lugar el Domingo Noviembre 1 2020
 Saludos
 
 31-Oct-2020
+
+Probando git reset Head a ver si es cierto
