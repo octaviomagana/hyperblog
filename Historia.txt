@@ -1,0 +1,9 @@
+Hola
+
+
+Soy Edgar Magaña, éste es mi primer archivo en GIT
+
+
+Saludos
+
+31-Oct-2020
