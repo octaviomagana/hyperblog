@@ -10,3 +10,5 @@ Saludos
 31-Oct-2020 - Sabado
 
 Ya se mucho mejor Git!!!
+
+Modificando multiples archivos y haciendo multiples commits
