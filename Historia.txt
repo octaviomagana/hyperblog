@@ -7,7 +7,11 @@ Voy a terminar el curso de GIT a como de lugar el Domingo Noviembre 1 2020
 
 Master 1: no termine el curso aun
 
+<<<<<<< HEAD
 Master 2
+=======
+Experimento 1: Pero ahi voy echandole ganas
+>>>>>>> 7aa7c05 (experimento 1)
 
 Saludos
 
